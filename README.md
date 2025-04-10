@@ -2,7 +2,7 @@
 This is a team based DAA project of the students of 4TH semester of Graphic era Hill University , Dehradun
 
 Team members are :
- Bhavesh pant (Leader)
+ Bhavesh Pant (Leader)
  Rajat Singh Rawat
  Priyanshu Jugran
  Angad Singh 
